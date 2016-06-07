@@ -17,10 +17,6 @@ This is a repository of Windows Powershell scripts that I've written for various
 
 ## Usage
 
-### Clean-Out-Playlist-Files.ps1
+1. `git clone https://github.com/minademian/powershell-utilities`
+2. Run script in new Powershell window
 
-### Convert-Emlx-To-Outlook.ps1
-
-### Flatten-Music-Directory.ps1
-
-## Changelog
